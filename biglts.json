@@ -1,16 +1,16 @@
 {
 
-	"APP_KEY": "fSrg531",
+	"APP_KEY": "f866831",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "c1b57a7c56f63137",
-	"APPLOVIN_INTERSTITIAL_ID": "24593417865456a9",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"24593417865456a9",
-	"ENABLE_ONBACK_ADS":true,
+	"APPLOVIN_BANNER_ID": "c1b57a563863137",
+	"APPLOVIN_INTERSTITIAL_ID": "2456868865456a9",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"2486867865456a9",
+	"ENABLE_ONBACK_ADS":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -19,7 +19,7 @@
 
 	"SwitchAds": 2,
 
-	"MoreApps": "644683",
+	"MoreApps": "68683",
 
 	"popAppLink": "https://smrturl.co/o/132730/53177516",
 	"popAppName": "Get Free Gift Card",
@@ -45,15 +45,15 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":true,
+    "Visibility_image_cpa":false,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
 	"URLs": [
 
 		{
-			"title": "ShoeDazzle",
-			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/dzxz.png",
+			"title": "Big Lots",
+			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/bigo.png",
 			"url": "http://"
 		}
 
