@@ -28,7 +28,7 @@
 	"popAppIsActive": false,
 	"Interval_Time":40000, 
 
-	"isPage1Activate": true,
+	"isPage1Activate": false,
 	"isPage2Activate": false,
 	"isPage3Activate": false,
 	"isPage4Activate": false,
