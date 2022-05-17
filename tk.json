@@ -31,9 +31,9 @@
 	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": false,
-	"isPage4Activate": false,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"have you ever bought from big lots online Before?",
+	"textPage4":"have you ever bought online Before?",
 	"button1Page4":"yes",
 	"button2Page4":"no",
 	"isPage5Activate": false,
