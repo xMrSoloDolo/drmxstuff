@@ -7,9 +7,9 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "c1b75f63137",
-	"APPLOVIN_INTERSTITIAL_ID": "245935756a9",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"24593475456a9",
+	"APPLOVIN_BANNER_ID": "9b855689f3a62832",
+	"APPLOVIN_INTERSTITIAL_ID": "ab2300f8bd3f4089",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"ab2300f8bd3f4089",
 	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -54,7 +54,7 @@
 		{
 			"title": "culvers",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/culversss.png",
-			"url": "http://"
+			"url": "http://alturl.com/dfo6i"
 		}
 
 	]
