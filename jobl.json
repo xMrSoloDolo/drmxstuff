@@ -7,8 +7,8 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "c1b57a544563137",
-	"APPLOVIN_INTERSTITIAL_ID": "24593858a9",
+	"APPLOVIN_BANNER_ID": "5167fbcd0904075d",
+	"APPLOVIN_INTERSTITIAL_ID": "b4b16392497c7b07",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"245858865456a9",
 	"ENABLE_ONBACK_ADS":false,
 
@@ -17,7 +17,7 @@
 	"UNITY_GAME_ID": "3916749",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 2,
 
 	"MoreApps": "64858",
 
@@ -54,7 +54,7 @@
 		{
 			"title": "Jooble Jobs",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/jobleee.png",
-			"url": "http://"
+			"url": "http://alturl.com/btok4"
 		}
 
 	]
