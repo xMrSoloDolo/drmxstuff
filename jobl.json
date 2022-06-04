@@ -12,8 +12,8 @@
 	"APPLOVIN_INTERSTITIAL_ONBACK":"245858865456a9",
 	"ENABLE_ONBACK_ADS":false,
 
-	"UNITY_BANNER": "Android_Banner",
-	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_BANNER": "Banner_Android",
+	"UNITY_INTERSTITIAL": "Interstitial_Android",
 	"UNITY_GAME_ID": "4784251",
 	"UNITY_TEST_MODE": false,
 
