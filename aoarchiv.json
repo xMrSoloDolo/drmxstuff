@@ -7,17 +7,17 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "9b8eydh9f3a62832",
-	"APPLOVIN_INTERSTITIAL_ID": "ab2dhfud3f4089",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"ab2djd3f4089",
-	"ENABLE_ONBACK_ADS":false,
+	"APPLOVIN_BANNER_ID": "07eb86197602986e",
+	"APPLOVIN_INTERSTITIAL_ID": "a0d0641f7962aa50",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"aa0d0641f7962aa50",
+	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
 	"UNITY_GAME_ID": "3916749",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 2,
 
 	"MoreApps": "6447483",
 
@@ -54,7 +54,7 @@
 		{
 			"title": "AO3 Archive Reader",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/archiv.png",
-			"url": "http://"
+			"url": "http://alturl.com/m3soj"
 		}
 
 	]
