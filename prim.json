@@ -7,9 +7,9 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "c1b57a571f63137",
-	"APPLOVIN_INTERSTITIAL_ID": "245937565456a9",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"24593577456a9",
+	"APPLOVIN_BANNER_ID": "e323e152d370e74d",
+	"APPLOVIN_INTERSTITIAL_ID": "5bdd3122f3be98e2",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"5bdd3122f3be98e2",
 	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -54,7 +54,7 @@
 		{
 			"title": "primark",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/primgain.png",
-			"url": "http://"
+			"url": "http://alturl.com/45j6n"
 		}
 
 	]
