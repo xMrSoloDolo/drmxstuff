@@ -1,16 +1,16 @@
 {
 
-	"APP_KEY": "fSr75431",
+	"APP_KEY": "fSr7fj1",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "e323e152d370e74d",
-	"APPLOVIN_INTERSTITIAL_ID": "5bdd3122f3be98e2",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"5bdd3122f3be98e2",
-	"ENABLE_ONBACK_ADS":false,
+	"APPLOVIN_BANNER_ID": "07eb86197602986e",
+	"APPLOVIN_INTERSTITIAL_ID": "a0d0641f7962aa50",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"aa0d0641f7962aa50",
+	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -19,18 +19,18 @@
 
 	"SwitchAds": 2,
 
-	"MoreApps": "644683",
-
-
-	"popAppLink": "https://smrturl.co/o/132730/53174327",
+	"MoreApps": "6447483",
+	
+	
+	"popAppLink": "https://smrturl.co/o/132730/53177516",
 	"popAppName": "Get Free Gift Card",
-	"popAppImage": "https://i.ibb.co/Dwhq4ws/prim.jpg",
+	"popAppImage": "https://i.ibb.co/wyqcgCY/arch.png",
 	"popAppPackage": "",
         "popAppIsActive": true,
-	
-	
+	"Interval_Time":40000, 
+
 	"isPage1Activate": true,
-	"isPage2Activate": false,
+	"isPage2Activate": true,
 	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
@@ -44,6 +44,23 @@
 	"button2Page5":"budgie",
 	
 	"isPage6Activate": false,
+	
+	//cpa image banner
+    "Visibility_image_cpa":true,
+    "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
+    "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
+
+	"URLs": [
+
+		{
+			"title": "AO3 Archive Reader",
+			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/archiv.png",
+			"url": "http://alturl.com/m3soj"
+		}
+
+	]
+
+}
 	
 	//cpa image banner
     "Visibility_image_cpa":true,
