@@ -26,7 +26,7 @@
 	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://i.ibb.co/Dwhq4ws/prim.jpg",
 	"popAppPackage": "",
-        "popAppIsActive": false,
+        "popAppIsActive": true,
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
@@ -63,3 +63,4 @@
 
 	
 
+}
