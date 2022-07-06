@@ -10,7 +10,7 @@
 	"APPLOVIN_BANNER_ID": "9b855689f3a62832",
 	"APPLOVIN_INTERSTITIAL_ID": "ab2300f8bd3f4089",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"ab2300f8bd3f4089",
-	"ENABLE_ONBACK_ADS":false,
+	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -29,7 +29,7 @@
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
+	"isPage2Activate": true,
 	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
