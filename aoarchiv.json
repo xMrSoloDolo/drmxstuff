@@ -17,7 +17,7 @@
 	"UNITY_GAME_ID": "3916749",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 2,
 
 	"MoreApps": "6447483",
 	
@@ -30,7 +30,7 @@
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": true,
+	"isPage2Activate": false,
 	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
@@ -46,7 +46,7 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":false,
+    "Visibility_image_cpa":true,
     "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
     "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
@@ -55,7 +55,7 @@
 		{
 			"title": "AO3 Archive Reader",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/archiv.png",
-			"url": "http://"
+			"url": "http://alturl.com/jr4jc"
 		}
 
 	]
