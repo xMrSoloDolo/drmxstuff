@@ -30,7 +30,7 @@
 
 	"isPage1Activate": true,
 	"isPage2Activate": true,
-	"isPage3Activate": false,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever bought from big lots online Before?",
@@ -54,7 +54,7 @@
 		{
 			"title": "culvers",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/culversss.png",
-			"url": "http://alturl.com/9j78q"
+			"url": ""
 		}
 
 	]
