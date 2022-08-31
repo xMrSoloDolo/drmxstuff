@@ -1,6 +1,6 @@
 {
 
-	"APP_KEY": "fSr7fj1",
+	"APP_KEY": "16485f50d",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -10,14 +10,14 @@
 	"APPLOVIN_BANNER_ID": "ffb5cb875c24e18d",
 	"APPLOVIN_INTERSTITIAL_ID": "7d539ef587ac90b1",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"7d539ef587ac90b1",
-	"ENABLE_ONBACK_ADS":true,
+	"ENABLE_ONBACK_ADS":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
 	"UNITY_GAME_ID": "3916749",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
+	"SwitchAds": 1,
 
 	"MoreApps": "6447483",
 
