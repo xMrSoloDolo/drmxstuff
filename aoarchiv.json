@@ -6,7 +6,7 @@
   
   "AdsController": {
       
-    "runAds"                     : true,
+    "runAds"                     : false,
       
     "BannerNetwork"              : "admob",
     "InterstitialNetwork"        : "admob",
@@ -41,17 +41,17 @@
   
   "ControlActivity": {
       
-    "GenderActivity": true,
+    "GenderActivity": false,
     
-    "CaptchaActivity": true,
+    "CaptchaActivity": false,
     
     "FirstInfoActivity": {
-      "status": true,
+      "status": false,
       "text": "Switch Button in Android is a UI element that is used to switch between two states upon click. It can be assumed as a Boolean button with two different values. Some states where you may find a Switch in your Android device"
     },
     
     "SecondInfoActivity": {
-      "status": true,
+      "status": false,
       "text": "try upgrading the Android Studio to the latest version. We demonstrated the application in Kotlin, so make sure you select Kotlin as the primary language while creating a New Project."
     }
   },
@@ -173,7 +173,7 @@
       {
         "title": "Button 3 url 1",
         "image": "",
-        "url": "https://zonekapp.com/AndroidStudio/Media/holder.png",
+        "url": "https://www.networksolutions.com/?fbclid=IwAR3nqbe0-TqzsiuQ1HNQ8OWLPHu3y6Rp8ZgI46UGTQ32U26TRV7mrWNQkYU",
         "status": true
       }
     ]
@@ -184,9 +184,9 @@
     "title": "Online Coupons",
     "list": [
       {
-        "title": "Button 4 url 1",
-        "image": "https://zonekapp.com/AndroidStudio/Media/holder.png",
-        "url": "",
+        "title": "shoes",
+        "image": "https://img.freepik.com/premium-vector/shoe-with-stiletto-high-heel-woman-red-footwear-vector-illustration_352905-655.jpg",
+        "url": "https://www.networksolutions.com/?fbclid=IwAR3nqbe0-TqzsiuQ1HNQ8OWLPHu3y6Rp8ZgI46UGTQ32U26TRV7mrWNQkYU",
         "status": true
       }
     ]
