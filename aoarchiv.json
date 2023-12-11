@@ -6,7 +6,7 @@
   
   "AdsController": {
       
-    "runAds"                     : false,
+    "runAds"                     : true,
       
     "BannerNetwork"              : "admob",
     "InterstitialNetwork"        : "admob",
@@ -32,7 +32,7 @@
       "popStatus"      : true,
       "popTimerSecond" : 10,
       
-      "nativeStatus"   : true,
+      "nativeStatus"   : false,
       "adTitle"        : "Epic Brawl - Battle Royale",
       "adPreview"      : "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
       "adAction"       : "https://play.google.com/store/apps/details?id=com.appon.epicbrawl"
