@@ -1,63 +1,195 @@
 {
+  "AppRedirect": {
+    "status"      : false,
+    "redirectUrl" : "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "runAds"                     : true,
+      
+    "BannerNetwork"              : "admob",
+    "InterstitialNetwork"        : "admob",
+    "NativeNetwork"              : "admob",
+    
+    "IntervalClick"              : 1,
+    
+    "AdMob_Banner"               : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"       : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"               : "ca-app-pub-3940256099942544/2247696110",
+   
+    "Facebook_Banner"            : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd"    : "692961278482629_692963491815741",
+    "Facebook_Native"            : "692961278482629_857100538735368",
+    
+    "Applovin_Banner"            : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd"    : "d5a67a7b679c9a38",
+    "Applovin_Native"            : "a5f235ba1320fb35"
+    
+  },
+  
+  "HouseAdSettings":{
+      "popStatus"      : true,
+      "popTimerSecond" : 10,
+      
+      "nativeStatus"   : true,
+      "adTitle"        : "Epic Brawl - Battle Royale",
+      "adPreview"      : "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+      "adAction"       : "https://play.google.com/store/apps/details?id=com.appon.epicbrawl"
+      
+  },
+  
+  "ControlActivity": {
+      
+    "GenderActivity": true,
+    
+    "CaptchaActivity": true,
+    
+    "FirstInfoActivity": {
+      "status": true,
+      "text": "Switch Button in Android is a UI element that is used to switch between two states upon click. It can be assumed as a Boolean button with two different values. Some states where you may find a Switch in your Android device"
+    },
+    
+    "SecondInfoActivity": {
+      "status": true,
+      "text": "try upgrading the Android Studio to the latest version. We demonstrated the application in Kotlin, so make sure you select Kotlin as the primary language while creating a New Project."
+    }
+  },
 
-	"APP_KEY": "16486681d",
-	"BANNER_PLACEMENT": "DefaultBanner",
-	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+  "FirstButtonControl": {
+    "status": true,
+    "title": "Coupons",
+    "list": [
+      {
+        "title": "Ayman Promo",
+        "description": "up to 70% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/holder.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Amazon Gift",
+        "description": "up to 50% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/amazon.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+       {
+        "title": "Google",
+        "description": "up to 20% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/google.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Aliexpress",
+        "description": "up to 80% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/aliexpress.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+       {
+        "title": "Walmart",
+        "description": "up to 90% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/walmart.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Netflix",
+        "description": "up to 70% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/netflix.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Illustrator",
+        "description": "up to 90% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/ai.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Photoshop",
+        "description": "up to 30% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/ps.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+      {
+        "title": "Alibaba",
+        "description": "up to 20% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/alibaba.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      },
+       {
+        "title": "Unity",
+        "description": "up to 30% off",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/unity.png",
+        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
+      }
+    ]
+  },
 
-	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
-	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+  "SecondButtonControl": {
+    "status": true,
+    "title": "Image Ideas",
+    "list": [
+      {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/walmart.png",
+        "url": "https://medium.com/enkronos/5-step-android-app-development-guide-for-beginners-e6d89c0b8ef6",
+        "status": true
+      },
+       {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/unity.png",
+        "url": "",
+        "status": false
+      },
+       {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/netflix.png",
+        "url": "",
+        "status": true
+      },
+       {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/aliexpress.png",
+        "url": "",
+        "status": true
+      },
+       {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/amazon.png",
+        "url": "",
+        "status": true
+      },
+       {
+        "title": "",
+        "image": "https://zonekapp.com/AndroidStudio/Media/icons/google.png",
+        "url": "",
+        "status": true
+      }
+    ]
+  },
 
-	"APPLOVIN_BANNER_ID": "07eb86197602986e",
-	"APPLOVIN_INTERSTITIAL_ID": "a0d0641f7962aa50",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"aa0d0641f7962aa50",
-	"ENABLE_ONBACK_ADS":false,
+  "ThirdButtonControl": {
+    "status": true,
+    "title": "Online Category",
+    "list": [
+      {
+        "title": "Button 3 url 1",
+        "image": "",
+        "url": "https://zonekapp.com/AndroidStudio/Media/holder.png",
+        "status": true
+      }
+    ]
+  },
 
-	"UNITY_BANNER": "Android_Banner",
-	"UNITY_INTERSTITIAL": "Android_Interstitial",
-	"UNITY_GAME_ID": "3916749",
-	"UNITY_TEST_MODE": false,
-
-	"SwitchAds": 1,
-
-	"MoreApps": "6447483",
-	
-	
-	"popAppLink": "https://smrturl.co/o/132730/53177516",
-	"popAppName": "Get Free Gift Card",
-	"popAppImage": "https://i.ibb.co/wyqcgCY/arch.png",
-	"popAppPackage": "",
-        "popAppIsActive": true,
-	"Interval_Time":40000, 
-
-	"isPage1Activate": true,
-	"isPage2Activate": true,
-	"isPage3Activate": true,
-	"isPage4Activate": false,
-    	//content Page 4
-	"textPage4":"have you ever bought from big lots online Before?",
-	"button1Page4":"yes",
-	"button2Page4":"no",
-	"isPage5Activate": false,
-		//content Page 5
-	"textPage5":"choose boy or budgie",
-	"button1Page5":"boy",
-	"button2Page5":"budgie",
-	
-	"isPage6Activate": false,
-	
-	//cpa image banner
-    "Visibility_image_cpa":false,
-    "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
-    "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
-
-	"URLs": [
-
-		{
-			"title": "AO3 Archive Reader",
-			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images2/main/archiv.png",
-			"url": "http://alturl.com/673p6"
-		}
-
-	]
+  "FourthButtonControl": {
+    "status": true,
+    "title": "Online Coupons",
+    "list": [
+      {
+        "title": "Button 4 url 1",
+        "image": "https://zonekapp.com/AndroidStudio/Media/holder.png",
+        "url": "",
+        "status": true
+      }
+    ]
+  }
 
 }
