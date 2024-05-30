@@ -1,195 +1,483 @@
 {
-  "AppRedirect": {
-    "status"      : false,
-    "redirectUrl" : "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  "appRedirect": {
+    "status": false,
+    "redirectURL": ""
   },
   
-  "AdsController": {
-       
-    "runAds"                     : true,
+ "AdsController": {
       
-    "BannerNetwork"              : "admob",
-    "InterstitialNetwork"        : "admob",
-    "NativeNetwork"              : "admob",
-    
-    "IntervalClick"              : 1,
-    
-    "AdMob_Banner"               : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"       : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"               : "ca-app-pub-3940256099942544/2247696110",
+    "BannerNetwork"           : "yandex",
+    "InterstitialNetwork"     : "huawei",
+    "RewardNetwork"           : "huawei",
    
-    "Facebook_Banner"            : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd"    : "692961278482629_692963491815741",
-    "Facebook_Native"            : "692961278482629_857100538735368",
+    "IntervalClick"           : 1,
     
-    "Applovin_Banner"            : "a5f235ba1320fb35",
-    "Applovin_InterstitialAd"    : "d5a67a7b679c9a38",
-    "Applovin_Native"            : "a5f235ba1320fb35"
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
     
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_RewardAd"       : "692961278482629_857106118734810",
+        
+    "Yandex_Banner"           : "demo-banner-yandex",
+    "Yandex_InterstitialAd"   : "demo-interstitial-yandex",
+    "Yandex_RewardAd"         : "demo-rewarded-yandex",
+    
+    "Huawei_Banner"           : "testw6vs28auh3",
+    "Huawei_InterstitialAd"   : "testb4znbuh3n2",
+    "Huawei_RewardAd"         : "testx9dtjwj8hp"
+
   },
+
   
-  "HouseAdSettings":{
-      "popStatus"      : true,
-      "popTimerSecond" : 10,
-      
-      "nativeStatus"   : false,
-      "adTitle"        : "Epic Brawl - Battle Royale",
-      "adPreview"      : "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
-      "adAction"       : "https://play.google.com/store/apps/details?id=com.appon.epicbrawl"
-      
-  },
-  
-  "ControlActivity": {
-      
-    "GenderActivity": false,
-    
-    "CaptchaActivity": false,
-    
-    "FirstInfoActivity": {
-      "status": false,
-      "text": "Switch Button in Android is a UI element that is used to switch between two states upon click. It can be assumed as a Boolean button with two different values. Some states where you may find a Switch in your Android device"
+  "Wallpaper": [
+    {
+      "category" : "Abstract",
+      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Abstract/1.jpg"
     },
-    
-    "SecondInfoActivity": {
-      "status": false,
-      "text": "try upgrading the Android Studio to the latest version. We demonstrated the application in Kotlin, so make sure you select Kotlin as the primary language while creating a New Project."
+    {
+      "category" : "Anime",
+      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Anime/1.jpg"
+    },
+    {
+      "category" : "Art",
+      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Art/1.jpg"
+    },
+    {
+      "category" : "Bikes",
+      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Bikes/1.jpg"
+    },
+    {
+      "category" : "Cars",
+      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Cars/1.jpg"
+    },
+    {
+      "category" : "Gif",
+      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Gif/1.gif"
+    },
+    {
+      "category" : "Photography",
+      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Photography/1.jpg"
+    },
+    {
+      "category" : "SuperHero",
+      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/1.jpg"
     }
-  },
+  ],
 
-  "FirstButtonControl": {
-    "status": true,
-    "title": "Coupons",
-    "list": [
-      {
-        "title": "Ayman Promo",
-        "description": "up to 70% off",
-        "image": "https://zonekapp.com/AndroidStudio/Media/holder.png",
-        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
-      },
-      {
-        "title": "Amazon Gift",
-        "description": "up to 50% off",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/amazon.png",
-        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
-      },
-       {
-        "title": "Google",
-        "description": "up to 20% off",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/google.png",
-        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
-      },
-      {
-        "title": "Aliexpress",
-        "description": "up to 80% off",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/aliexpress.png",
-        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
-      },
-       {
-        "title": "Walmart",
-        "description": "up to 90% off",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/walmart.png",
-        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
-      },
-      {
-        "title": "Netflix",
-        "description": "up to 70% off",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/netflix.png",
-        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
-      },
-      {
-        "title": "Illustrator",
-        "description": "up to 90% off",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/ai.png",
-        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
-      },
-      {
-        "title": "Photoshop",
-        "description": "up to 30% off",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/ps.png",
-        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
-      },
-      {
-        "title": "Alibaba",
-        "description": "up to 20% off",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/alibaba.png",
-        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
-      },
-       {
-        "title": "Unity",
-        "description": "up to 30% off",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/unity.png",
-        "tips": "Copy the code and go to \n https://www.geeksforgeeks.org"
-      }
-    ]
-  },
 
-  "SecondButtonControl": {
-    "status": true,
-    "title": "Image Ideas",
-    "list": [
-      {
-        "title": "",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/walmart.png",
-        "url": "https://medium.com/enkronos/5-step-android-app-development-guide-for-beginners-e6d89c0b8ef6",
-        "status": true
-      },
-       {
-        "title": "",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/unity.png",
-        "url": "",
-        "status": false
-      },
-       {
-        "title": "",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/netflix.png",
-        "url": "",
-        "status": true
-      },
-       {
-        "title": "",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/aliexpress.png",
-        "url": "",
-        "status": true
-      },
-       {
-        "title": "",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/amazon.png",
-        "url": "",
-        "status": true
-      },
-       {
-        "title": "",
-        "image": "https://zonekapp.com/AndroidStudio/Media/icons/google.png",
-        "url": "",
-        "status": true
-      }
-    ]
-  },
 
-  "ThirdButtonControl": {
-    "status": true,
-    "title": "Online Category",
-    "list": [
-      {
-        "title": "Button 3 url 1",
-        "image": "",
-        "url": "https://www.networksolutions.com/?fbclid=IwAR3nqbe0-TqzsiuQ1HNQ8OWLPHu3y6Rp8ZgI46UGTQ32U26TRV7mrWNQkYU",
-        "status": true
-      }
-    ]
-  },
-
-  "FourthButtonControl": {
-    "status": true,
-    "title": "Online Coupons",
-    "list": [
-      {
-        "title": "shoes",
-        "image": "https://img.freepik.com/premium-vector/shoe-with-stiletto-high-heel-woman-red-footwear-vector-illustration_352905-655.jpg",
-        "url": "https://www.networksolutions.com/?fbclid=IwAR3nqbe0-TqzsiuQ1HNQ8OWLPHu3y6Rp8ZgI46UGTQ32U26TRV7mrWNQkYU",
-        "status": true
-      }
-    ]
-  }
-
+  "Abstract": [
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/1.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/2.jpg",
+      "premium": true
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/3.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/4.jpg",
+      "premium": true
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/5.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/6.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/7.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/8.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/9.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/10.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/11.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/12.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/13.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/14.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/15.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/16.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/17.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/18.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/19.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/20.jpg",
+      "premium": false
+    }
+  ],
+  "Anime": [
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/1.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/2.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/3.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/4.jpg",
+      "premium": true
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/5.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/6.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/7.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/8.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/9.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/10.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/11.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/12.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/13.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/14.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/15.jpg",
+      "premium": false
+    }
+  ],
+  "Art": [
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/1.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/2.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/3.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/4.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/5.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/6.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/7.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/8.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/9.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/10.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/11.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/12.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/13.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/14.jpg",
+      "premium": false
+    }
+  ],
+  "Bikes": [
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Bikes/1.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Bikes/2.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Bikes/3.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Bikes/4.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Bikes/5.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Bikes/6.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Bikes/7.jpg",
+      "premium": false
+    }
+  ],
+  "Cars": [
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/1.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/2.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/3.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/4.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/5.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/6.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/7.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/8.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/9.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/10.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/11.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/12.jpg",
+      "premium": false
+    }
+  ],
+  "Gif": [
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Gif/1.gif",
+      "premium": false
+    }
+  ],
+  "Photography": [
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/1.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/2.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/3.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/4.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/5.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/6.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/7.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/8.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/9.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/10.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/11.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/12.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/13.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/14.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/15.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/16.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/17.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/18.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/19.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/20.jpg",
+      "premium": false
+    }
+  ],
+  "SuperHero": [
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/1.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/2.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/3.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/4.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/5.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/6.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/7.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/8.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/9.jpg",
+      "premium": false
+    },
+    {
+      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/10.jpg",
+      "premium": false
+    }
+  ]
 }
