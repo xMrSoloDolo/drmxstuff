@@ -6,7 +6,7 @@
   
  "AdsController": {
       
-    "BannerNetwork"           : "yandex",
+    "BannerNetwork"           : "huawei",
     "InterstitialNetwork"     : "huawei",
     "RewardNetwork"           : "huawei",
    
@@ -33,36 +33,20 @@
   
   "Wallpaper": [
     {
-      "category" : "Abstract",
-      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Abstract/1.jpg"
+      "category" : "1- House Ideas",
+      "preview"  : "https://i.ibb.co/r5Kpn42/95eec03278b7ffef50388a9ba8c640a4.jpg"
     },
     {
-      "category" : "Anime",
-      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Anime/1.jpg"
+      "category" : "2- House Ideas",
+      "preview"  : "https://i.ibb.co/MfCR57P/173fe7eb66e136b952958afb71290be2.jpg"
     },
     {
-      "category" : "Art",
-      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Art/1.jpg"
+      "category" : "3- House Ideas",
+      "preview"  : "https://i.ibb.co/yBJGY0j/88b41a3308e34cb69fa85bd80c1d34f2.jpg"
     },
     {
-      "category" : "Bikes",
-      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Bikes/1.jpg"
-    },
-    {
-      "category" : "Cars",
-      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Cars/1.jpg"
-    },
-    {
-      "category" : "Gif",
-      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Gif/1.gif"
-    },
-    {
-      "category" : "Photography",
-      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/Photography/1.jpg"
-    },
-    {
-      "category" : "SuperHero",
-      "preview"  : "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/1.jpg"
+      "category" : "4- House Ideas",
+      "preview"  : "https://i.ibb.co/VVCn9LF/8c1a3106a67853cc1a6347a632efc603.jpg"
     }
   ],
 
