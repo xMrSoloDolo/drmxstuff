@@ -52,7 +52,7 @@
 
 
 
-  "Abstract": [
+  "1- House Ideas": [
     {
       "image": "https://zonekapp.com/AndroidStudio/WPLite/Abstract/1.jpg",
       "premium": false
@@ -134,7 +134,7 @@
       "premium": false
     }
   ],
-  "Anime": [
+  "2- House Ideas": [
     {
       "image": "https://zonekapp.com/AndroidStudio/WPLite/Anime/1.jpg",
       "premium": false
@@ -196,7 +196,7 @@
       "premium": false
     }
   ],
-  "Art": [
+  "3- House Ideas": [
     {
       "image": "https://zonekapp.com/AndroidStudio/WPLite/Art/1.jpg",
       "premium": false
@@ -254,7 +254,7 @@
       "premium": false
     }
   ],
-  "Bikes": [
+  "4- House Ideas": [
     {
       "image": "https://zonekapp.com/AndroidStudio/WPLite/Bikes/1.jpg",
       "premium": false
@@ -283,185 +283,6 @@
       "image": "https://zonekapp.com/AndroidStudio/WPLite/Bikes/7.jpg",
       "premium": false
     }
-  ],
-  "Cars": [
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/1.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/2.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/3.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/4.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/5.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/6.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/7.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/8.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/9.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/10.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/11.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Cars/12.jpg",
-      "premium": false
-    }
-  ],
-  "Gif": [
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Gif/1.gif",
-      "premium": false
-    }
-  ],
-  "Photography": [
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/1.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/2.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/3.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/4.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/5.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/6.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/7.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/8.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/9.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/10.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/11.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/12.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/13.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/14.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/15.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/16.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/17.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/18.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/19.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/Photography/20.jpg",
-      "premium": false
-    }
-  ],
-  "SuperHero": [
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/1.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/2.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/3.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/4.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/5.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/6.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/7.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/8.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/9.jpg",
-      "premium": false
-    },
-    {
-      "image": "https://zonekapp.com/AndroidStudio/WPLite/SuperHero/10.jpg",
-      "premium": false
-    }
+  ]
   ]
 }
